@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Инна  Толчинская](https://up.htmlacademy.ru/htmlcss/27/user/1256425).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Продан](https://htmlacademy.ru/profile/vprodan).
 
 ---
 
